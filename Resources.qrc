@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/startButton.png</file>
+        <file>Resources/PlayerDialog.txt</file>
+        <file>Resources/detectiveBriefcase.png</file>
+        <file>Resources/highlightedStart.png</file>
+        <file>Resources/openBriefCase.png</file>
+        <file>Resources/update.png</file>
+        <file>Resources/menuBG.jpg</file>
+        <file>Resources/title.png</file>
+        <file>Resources/closing monologue image.png</file>
+        <file>Resources/fbi-agent-portrait.png</file>
+        <file>Resources/opening monologue image.png</file>
+        <file>Resources/Street film noir.png</file>
+        <file>Resources/detectiveNotes.png</file>
+        <file>Resources/writeNotes.png</file>
+        <file>Resources/cop_icon.png</file>
+        <file>Resources/detectiveIcon.png</file>
+        <file>Resources/journalist_icon.png</file>
+        <file>Resources/lyndonJohnson telephone.jpg</file>
+        <file>Resources/Marina_Oswald_icon.jpg</file>
+        <file>Resources/cop_detective.png</file>
+        <file>Resources/fbi_background.png</file>
+        <file>Resources/marina_bck2.png</file>
+        <file>Resources/reporter_background.png</file>
+        <file>Resources/reporterIcon.png</file>
+        <file>Resources/carSprite.png</file>
+        <file>Resources/road.png</file>
+        <file>Resources/gameoverBackground.png</file>
+    </qresource>
+</RCC>

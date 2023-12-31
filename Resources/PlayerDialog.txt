@@ -1,0 +1,297 @@
+President_Johnson_Request
+President Lyndon Johnson: Son, I'm about to entrust you with a task heavier than any I've shouldered before. This nation has been struck by a tragedy, a loss so profound that words fail. John F. Kennedy, a man of vision and vigor, taken from us in the prime of his life. Now, the whispers and rumors are spreading like wildfire, and I need the truth, the whole truth, nothing but the truth.
+
+President Lyndon Johnson: I don't need to remind you of the sensitivity of this matter. It's not just about finding who pulled the trigger; it's about understanding the whole picture, the unseen forces that might be at play. Look into every alley, every whisper, every odd coincidence. I need facts, hard and fast facts. Not for me, but for the American people, for history.
+
+President Lyndon Johnson: Remember, discretion is key. We don't want to cause a panic or give the wrong folks the wrong ideas. We're walking on a razor's edge here, and I need you to be my eyes and ears, outside the usual channels. This is about preserving the fabric of this nation, about ensuring that truth prevails.
+
+President Lyndon Johnson: I’ll get you in touch with one of J. Edgar Hoover's boys, from the FBI. They’ll help you straighten out a thing or two once you get to Dallas.
+
+President Lyndon Johnson: And son, be careful. If there's more to this than meets the eye, you might find yourself wading into deep and dangerous waters. But I trust in your abilities, and more importantly, in your discretion and loyalty to this country. Godspeed.
+x
+Tutorial
+FBI Agent: "So, you're the hotshot detective who cracked the Red Hooded Bandits case in '61? I'm Agent Williams. I've heard about you, but I'm not sure what you can bring to a case of this magnitude."
+
+Private Detective: "Well, Agent Williams, I appreciate the FBI's work, and I'm not here to step on any toes. I just want to help get to the bottom of this. I have a knack for getting people to talk."
+
+FBI Agent: "Getting people to talk, huh? Well, you're in Dallas now, and this isn't just any case. This is the assassination of the President. We're dealing with high stakes and high scrutiny here."
+
+Private Detective: "Understood. I've been following the case closely. I know Lee Harvey Oswald is your prime suspect. Any chance I could interview him and his wife, Marina?"
+
+FBI Agent: "Interview Oswald and his wife? That's a tall order. But... given your track record, I'm inclined to give you a shot. Here is Oswald's file to get you started, If you learn anything new, or need to reference the facts you use this file. I want everything by the book. Document every fact, every detail you get from them.."
+
+Private Detective: "Absolutely. I'm all about the facts. And there's something else. I have a connection with an officer in the Dallas Police Department, someone I've known for years. He could provide valuable insights from the local side of things."
+
+FBI Agent: "A Dallas PD contact, huh? That could be useful. We need all the help we can get. This case has layers, and we're peeling them back under the public's microscope. If your contact can shed light on anything we've missed, I want to know."
+
+Private Detective: "Great. I'll reach out to him and see what he knows. And about Oswald – I'll be as thorough as possible. It's important we understand his motives, his mindset."
+
+FBI Agent: "Remember, this is about more than just solving a crime. It's about giving a grieving nation the answers it deserves. We can't afford to leave any stone unturned."
+Private Detective: "I'm with you on that. Let's get to the truth."
+x
+Opening_Monologue
+Private Detective: "This city... it's a labyrinth of secrets, each alley whispering tales of the unseen. Every face in the crowd hides a story, every shadow a mystery. They call me when the truth seems like a distant dream, when the lines between right and wrong blur into a gray fog."                                                                                                                                                         [He takes a slow drag from his cigarette, eyes lost in thought.]
+
+Private Detective: "I've seen it all – greed, betrayal, the desperate acts of desperate people. But still, some cases, they get under your skin, linger like the echo of a forgotten melody. You try to move on, but they haunt you, challenge you, remind you why you started this gig in the first place."                                                                                                                                          [The room is filled with the ticking of a clock, a metronome to his thoughts.]
+
+Private Detective: "In this business, you learn to expect the unexpected. But some calls, they catch you off guard, make you question everything you thought you knew. It's a game of shadows and illusions, where the truth is the most elusive prey."                                                                                                                                                                                                    [Suddenly, the phone rings, cutting through the haze of smoke and contemplation. He looks at it, a sense of anticipation mixed with uncertainty.]
+
+Private Detective: "And in this moment, on the edge of another dive into the abyss, I can't help but wonder... what now? What new mystery beckons from the other end of that line?"                                                                                                                                                                                                                                                                    [He reaches for the phone, the weight of his profession heavy in his hand.]
+
+Private Detective: "In this city, in this life, the only certainty is the unknown. And so, into the unknown, I go once more."
+x
+Marina_Start
+Private Detective: "Mrs. Oswald, I'm deeply sorry for the turmoil you're facing. My role is to gather a clear picture of recent events. Understanding your husband's past, especially his time in Russia, is crucial. Could you share how you met Lee in Russia?"
+
+Marina Oswald: "Yes, we met at a dance in Minsk. Lee had defected to the Soviet Union in 1959. He was disillusioned with life in America and sought something different here. He was granted permission to stay after an initial denial and suicide attempt."
+
+Private Detective: "That's a significant step for an American during the Cold War. Did Lee ever speak about why he chose to return to the United States in 1962?"
+
+Marina Oswald: "He became disillusioned with life in the Soviet Union as well. He often complained about the restrictions and the way of life. When we married and had our first child, he decided to return to America, thinking it would be a better place for us."
+
+Private Detective: "Interesting. Shifting to a more sensitive topic, was there any indication of Lee's feelings towards President Kennedy? Anything that might hint at his motivations?"
+
+Marina Oswald: "Lee was often critical of American politics, but he never expressed a direct hatred for President Kennedy. His beliefs were complex – he was anti-capitalist and held Marxist views. But he never explicitly stated a desire to harm the President. It was all so shocking."
+
+Private Detective: "Did you notice any change in Lee's behavior or routines before the assassination? Anything that seemed unusual?"
+
+Marina Oswald: "In the weeks before, he became more secretive and isolated. He spent a lot of time alone. But I never imagined he was planning something so terrible. It was only after the assassination that I learned about his attempt to assassinate General Walker and his connection to the rifle."
+x
+Marina_Neg
+Private Detective: "Mrs. Oswald, I've been going over your husband's file. Quite a character, huh? Defecting to Russia, coming back... He doesn't seem like someone who makes the best life decisions."
+
+Marina Oswald: "I don't think that's a fair thing to say. Lee had his reasons for what he did."
+
+Private Detective: "Reasons? More like delusions, if you ask me. And then there's you, married to a man like him. What were you thinking? Getting mixed up with someone so... unstable."
+
+Marina Oswald: "You have no right to judge our lives or our decisions. You don't know us."
+
+Private Detective: "Don't know you? It's all here in black and white. An American defector and a Russian bride. Sounds like a spy novel. And then this mess with Kennedy. He's put you in quite a spot, hasn't he?"
+
+Marina Oswald: "You are being incredibly disrespectful. Lee is more than what's written in your files, and I am not just some character in your spy novel."
+
+Private Detective: "Oh, come on, Mrs. Oswald. Let's be honest. He's a radical, a hothead. Went to Russia, came back disgruntled. He was a ticking time bomb. And you – you must have seen it."
+
+Marina Oswald: "Enough! I will not sit here and listen to you insult my husband and me. This interview is over."
+x
+Marina_Pos
+Private Detective: "Mrs. Oswald, thank you for agreeing to talk. I'm just trying to piece together a complete picture. Did Lee ever mention friends or acquaintances who might have shared his views or been involved in any way?"
+
+Marina Oswald: "Lee didn't trust many people. He was mostly a loner. I can't think of anyone he would conspire with."
+
+Private Detective: "I understand. Sometimes, though, even casual acquaintances can offer insight. Did he have any friends he spent time with, anyone who might have influenced his thoughts or actions?"
+
+Marina Oswald: "Well, there was George De Mohrenschildt. He was somewhat of a friend to Lee. George was a Russian émigré and seemed to take an interest in Lee, especially after hearing about his time in the Soviet Union."
+
+Private Detective: "Can you tell me more about this George De Mohrenschildt? How did they meet, and in what ways did he help you?"
+
+Marina Oswald: "They met here in Dallas, through the Russian community. George helped us settle down when we came back to the States. He found us housing, things like that. It's strange, though. George had a connection to the Kennedys. He knew some people from Jackie Kennedy's family. It now seems like an odd coincidence to me."
+
+Private Detective: "Interesting. A connection to Jackie Kennedy's family, you say? Did George and Lee discuss the Kennedys often? Or politics in general?"
+
+Marina Oswald: "They talked politics, yes, but I never heard them discuss anything about the Kennedys specifically. George was more of a mentor or advisor to Lee. I can't say for sure if he influenced Lee's decisions or actions in any way."
+
+Private Detective: "This is intriguing information, Mrs. Oswald. Every piece helps us understand the broader context better. Thank you for sharing."
+x
+Cop_Start
+Private Detective: "Hey, Mike. It's been a long time. I'm working on something big – the Kennedy assassination. I need the facts straight from the day it happened. What can you tell me?"
+
+Dallas Officer: "It was chaos, I tell you. November 22, 1963, started like any other day. President Kennedy was in Dallas for a political trip, aiming to smooth over frictions in the Texas Democratic Party. He was riding with his wife, Jacqueline, Governor John Connally, and Connally's wife, Nellie, in a presidential motorcade."
+
+Private Detective: "Right, and the shooting happened in Dealey Plaza, right?"
+
+Dallas Officer: "Exactly. At 12:30 PM, shots rang out as the motorcade passed the Texas School Book Depository. Kennedy was struck twice – once in the neck, then in the head. Governor Connally was also injured. The motorcade rushed to Parkland Memorial Hospital, but... it was too late for Kennedy."
+
+Private Detective: "And Oswald? How did they pin it down to him?"
+
+Dallas Officer: "Oswald worked at the Depository. He was missing after the shooting. About 45 minutes later, Officer J.D. Tippit approached Oswald, fitting the description of the suspect, near Oak Cliff. Oswald shot and killed Tippit, then fled into a movie theater, where he was arrested."
+
+Private Detective: "Was there any evidence directly linking Oswald to the assassination?"
+
+Dallas Officer: "The rifle used in the assassination was found on the sixth floor of the Depository, where Oswald worked. It was linked to him through a mail-order purchase. Plus, there were eyewitness accounts and photographic evidence placing him at the scene."
+x
+Cop_Neg_Bef_Ruby
+Private Detective: "I've got to say, the way your department has been handling this... it's been less than ideal."
+
+Dallas Officer: "What do you mean? We're doing everything by the book here. This is a high-profile case, and we're under a lot of pressure."
+
+Private Detective: "By the book? The security around Oswald seems lax, considering he's accused of assassinating the President. And the media circus... it's like a three-ring show out there. Doesn't exactly inspire confidence."
+
+Dallas Officer: "Now hold on. We're doing the best we can under the circumstances. This isn't just any criminal; this is a national crisis. We're not used to handling cases with this level of scrutiny."
+
+Private Detective: "I get that, but you've got to tighten things up. Oswald should be under maximum security. The whole world is watching how Dallas handles this, and right now, it looks like amateur hour."
+
+Dallas Officer: "Look, I don't appreciate your tone. We're professionals, and we're handling the situation as best as we can. You don't know the kind of strain we're under."
+
+Private Detective: "I understand the pressure, but this is about more than just Dallas PD's reputation. It's about justice for a fallen President. You can't afford any mistakes. Any slip-up could jeopardize the entire investigation."
+
+Dallas Officer: "We're well aware of the stakes. But your criticism isn't helping. We're all trying to get to the bottom of this tragedy."
+
+Private Detective: "I'm just saying, keep a tighter leash on things. The last thing you need is something else going wrong. Oswald's testimony is vital, and his safety should be your top priority."
+x
+Cop_Neg_Aft_Ruby
+Private Detective: "John, I can't believe what just happened. Jack Ruby, a local nightclub owner, just walked in and shot Oswald, right under the noses of the Dallas PD? This is a monumental failure."
+
+Dallas Officer: "We're all in shock. Nobody saw this coming. Ruby wasn't even on our radar. It's a complete disaster."
+
+Private Detective: "Didn't see it coming? That's exactly the problem. Oswald was the most important suspect in the assassination of the President. How was his transfer not more secure? This is a blunder of epic proportions."
+
+Dallas Officer: "Look, we thought we had adequate security. Ruby was known to many officers; he had access to the police headquarters. It was a lapse, yes, but it's not as simple as you're making it out to be."
+
+Private Detective: "Not simple? It's basic. Oswald should have been the most protected man in the country. Instead, he's gunned down in your police station. The whole world was watching, and now the key suspect in the Kennedy assassination is dead. This raises more questions than answers."
+
+Dallas Officer: "I understand your frustration, but we're just as blindsided by this as everyone else. Ruby's actions have thrown a wrench into everything."
+
+Private Detective: "Blindsided? This was more than just a misstep; it was a glaring oversight. Oswald's death is on the Dallas PD. You've not only lost the suspect but potentially critical information that could have helped understand the motive, maybe even uncover a conspiracy."
+
+Dallas Officer: "We're processing this just like you are. It's a tragedy, and we're going to have to answer for it. But right now, pointing fingers isn't helping anyone."
+
+Private Detective: "Maybe not, but this incident has changed everything. The investigation, the public's trust, everything. Dallas PD's handling of this will be scrutinized for years to come."
+x
+Cop_Pos
+Private Detective: "I appreciate your openness so far. I'm just trying to gather all the perspectives on this case. Is there anything else, perhaps less known, that I should be aware of?"
+
+Dallas Officer: "Well, there's something that's been circulating internally. I spoke with Dr. Charles Crenshaw. He was one of the attending physicians at Parkland Memorial Hospital when they brought in President Kennedy."
+
+Private Detective: "Dr. Crenshaw? What did he have to say about the President's wounds?"
+
+Dallas Officer: "It's quite intriguing. According to Dr. Crenshaw, the President's wounds suggested that there were shots from both front and back. This contradicts the official account that all shots were fired by Oswald from the Texas School Book Depository."
+
+Private Detective: "Shots from the front and back? That's a significant claim. Did Dr. Crenshaw seem certain about this?"
+
+Dallas Officer: "He seemed very confident in his assessment. He argued that the throat wound, in particular, appeared to be an entry wound, suggesting a shot from the front. This supports theories that there might have been another shooter."
+x
+Lee_Start
+Private Detective: [Approaching a reporter amidst a commotion] "Excuse me, I'm a private detective working on the Kennedy case. I was on my way to interview Oswald, but what's all this chaos about?"
+
+Dallas Reporter: "You haven't heard? It's pandemonium. Jack Ruby, a local nightclub owner, just shot Lee Harvey Oswald in the basement of the Dallas Police Headquarters. It happened during a live broadcast!"
+
+Private Detective: "Ruby shot Oswald? You mean, the suspect in the President's assassination is dead? This is unbelievable. How did this even happen?"
+
+Dallas Reporter: "It's still unfolding. Ruby somehow got into the police station and shot Oswald at close range while he was being transferred. It was chaotic – the police were escorting Oswald, and Ruby just appeared and fired."
+
+Private Detective: "This is a major blow to the investigation. Oswald was our key to understanding what happened to Kennedy. And now he's gone? Just like that?"
+
+Dallas Reporter: "Yes, it's a huge setback. The entire nation is in shock. There are so many unanswered questions. The police are trying to figure out how Ruby, known to many officers, could get so close to Oswald. The whole scene was broadcast live on television."
+
+Private Detective: "I can't believe I missed this. I was supposed to interview him today. This raises serious concerns about the security measures at the police department. And now, any information Oswald had, any motives or possible co-conspirators, might be lost forever."
+
+Dallas Reporter: "Exactly. The implications of this are enormous. It's not just a local issue anymore; it's a matter of national concern. There's going to be a massive fallout from this. The whole country is watching how this will unfold."
+
+Private Detective: "Thank you for the update. I need to rethink my approach to this case now. Everything just changed."
+x
+Acted_Alone
+FBI Agent: "I heard about the unfortunate turn of events. Ruby shooting Oswald before you could interview him. That's a major setback. What have you managed to gather?"
+
+Private Detective: "It's a mess, Williams. I spoke extensively with Marina Oswald. She gave me insights into Lee's history, his character, his time in Russia. Based on what I've pieced together, including the facts of November 22nd, my gut says Oswald acted alone."
+
+FBI Agent: "Acted alone, huh? That's a big claim. What makes you so sure?"
+
+Private Detective: "From what Marina told me, Oswald was a loner, disillusioned and resentful. He had the means, motive, and opportunity. His rifle was found at the scene, matched to the bullets. And Marina mentioned no close associates or friends who shared his radical views."
+
+FBI Agent: "But what about the rumors of conspiracy? "
+
+Private Detective: "Sure, there are countless theories, but the evidence points to Oswald. He was seen in the Depository building, he fled the scene, killed Officer Tippit. Everything converges on him. The conspiracy theories lack solid evidence."
+
+FBI Agent: "Your analysis is straightforward, but we can't afford to overlook any angle. Oswald's actions have opened a Pandora's box of speculation and theories."
+
+Private Detective: "I agree. But based on my experience, the simplest explanation is often the correct one. Oswald had the capability and the motive. In my view, he acted alone, driven by his own twisted ideology."
+
+FBI Agent: The president has just made a committee to investigate the assassination in detail, called the Warren Commission, I will give your findings to them.
+x
+Conspiracy_GDM
+FBI Agent Williams: "So, you've had some time to dig into this case. What's your take? Was Oswald acting alone?"
+
+Private Detective: "Williams, the more I delve into this, the more I feel there's something we're not seeing. I've talked to Marina, reviewed the facts of November 22nd, but something doesn't sit right."
+
+FBI Agent: "What do you mean? You think there's a conspiracy?"
+
+Private Detective: "It's hard to say. Oswald definitely fits the profile of the lone gunman – disillusioned, a loner, the rifle was his. But there are some loose ends. Witnesses talked about shots from different directions, and then there's Jack Ruby..."
+
+FBI Agent: "Ruby's actions did raise eyebrows. But do you have any solid evidence pointing to a broader conspiracy?"
+
+Private Detective: "That's just it – I don't have hard evidence. But there are these nagging doubts. Marina mentioned Oswald's associations, like with George De Mohrenschildt, who had ties to the Kennedys. It's tenuous, but it's there."
+
+FBI Agent: "De Mohrenschildt, yes. But still, these are just connections, not evidence of conspiracy."
+
+Private Detective: "True, and yet, the way Oswald was taken out, so quickly, so publicly – it feels like someone wanted to silence him. It could be just Ruby acting on impulse, or it could be more. We just don't have the evidence to prove it either way."
+
+FBI Agent: "So, your gut says there's more to it, but the facts still point to Oswald as the main shooter?"
+
+Private Detective: "Exactly. Oswald's actions align with the assassination, but the surrounding circumstances – the anomalies, the contradictions – suggest we might not have the full picture. It's frustrating; we're in the realm of speculation without hard evidence."
+
+FBI Agent: The president has just made a committee to investigate the assassination in detail, called the Warren Commission, I will give your findings to them.
+x
+Conspiracy_NA
+FBI Agent: "After your investigations and talks, what's your stance? Was Oswald the lone gunman?"
+
+Private Detective: "Williams, I've been turning this case over in my mind, and something's not adding up. Yes, Oswald had the motive and means, but there are elements that don't quite fit the narrative of a lone wolf."
+
+FBI Agent: "What elements are you referring to?"
+
+Private Detective: "That's the issue. It's more a gut feeling than hard evidence. Oswald's background and actions suggest he could have been the shooter, but the circumstances surrounding the assassination and his subsequent murder hint at something larger. I just can't put my finger on it."
+
+FBI Agent: "Without hard evidence, it's difficult to move beyond Oswald as the prime suspect. Have you come across anything about Oswald's associations that could point to a conspiracy?"
+
+Private Detective: "No clear associations that I've uncovered. Oswald was somewhat of a loner. And I haven't come across any significant figures in his life who could be linked to a broader plot. But, you know, sometimes what we don't find is as telling as what we do."
+
+FBI Agent: The president has just made a committee to investigate the assassination in detail, called the Warren Commission, I will give your findings to them.
+x
+Conspiracy_DR
+FBI Agent: "So, what's your take on this whole Oswald situation? Do you believe he acted alone in assassinating Kennedy?"
+
+Private Detective: "Williams, it's complicated. After speaking with Marina and going over the details, there's something unsettling. Yes, Oswald could have been the shooter, but Dr. Charles Crenshaw's account at Parkland Hospital raises some serious questions."
+
+FBI Agent: "Crenshaw's account? What did he say?"
+
+Private Detective: "Crenshaw was one of the attending physicians for Kennedy. He mentioned that some of Kennedy's wounds suggested there might have been shots from more than one direction. This contradicts the theory that all shots came from the Texas School Book Depository, where Oswald was."
+
+FBI Agent: "That's a significant claim. But is it enough to doubt the entire official narrative?"
+
+Private Detective: "On its own, maybe not. But when you add it to the other irregularities, like the way Oswald was silenced by Ruby so quickly, it makes you wonder. We've got a puzzle with pieces that just don't fit neatly."
+
+FBI Agent: "It sounds like you're leaning towards a conspiracy theory."
+
+Private Detective: "I wouldn't go that far without more evidence. But I am saying there's enough smoke here to suspect a fire somewhere. Oswald might have been the triggerman, but Crenshaw's testimony suggests we might not have the full story of what happened that day in Dallas."
+
+FBI Agent: The president has just made a committee to investigate the assassination in detail, called the Warren Commission, I will give your findings to them.
+x
+Conspiracy_DR_GDM
+FBI Agent: "After all your interviews and research, what's your position? Did Oswald act alone in Kennedy's assassination?"
+
+Private Detective: "Williams, this case is more tangled than it appears. I spoke with Marina Oswald, and she mentioned George De Mohrenschildt, a Russian émigré with connections to Oswald. It struck me as odd, especially given De Mohrenschildt's distant ties to the Kennedys."
+
+FBI Agent: "De Mohrenschildt? That's an intriguing connection. But does it point to a conspiracy?"
+
+Private Detective: "It's not conclusive by itself. But then there's this – a Dallas officer shared with me Dr. Charles Crenshaw's account. He was at Parkland Hospital and claimed Kennedy's wounds suggested shots from multiple directions, not just from where Oswald was."
+
+FBI Agent: "Multiple shots? That's a serious claim. Does it hold water?"
+
+Private Detective: "It's hard to say without more evidence. But these pieces – De Mohrenschildt's connection and Crenshaw's testimony – they add layers of doubt about the lone gunman theory. It makes you wonder if Oswald was part of something bigger, or perhaps even a patsy."
+
+FBI Agent: The president has just made a committee to investigate the assassination in detail, called the Warren Commission, I will give your findings to them.
+x
+Closing_Monologue
+Private Detective: "In this tangled web of truth and deception, I've walked a path few dare to tread. The shadows whispered tales, the silence screamed secrets, and yet, the truth remains as elusive as a wisp of smoke in a storm."                                                                                                                                                                                                                                                        [He takes a moment, staring into the distance, reflecting on the journey.]
+
+Private Detective: "I've pieced together this puzzle with hands unsteady, weighed down by the gravity of this case. Oswald, a name etched in history, a man cloaked in enigma. Was he a lone wolf, a puppet in a grander scheme, or just a man at the wrong place at the wrong time?"                                                                                                                                                                                                         [A heavy sigh escapes him, as if releasing the burden of his thoughts.]
+
+Private Detective: "My journey through this maze has led me to believe, to reluctantly concede, that Oswald, though a complex character, might have been the one to pull the trigger. But the echoes of doubt, the shadows of unanswered questions, they linger, haunt me."                                                                                                                                                                                                                   [He picks up a photograph from the desk, gazing at it thoughtfully.]
+
+Private Detective: "In this city of secrets, in this labyrinth of lies, the truth is a rare gem, often hidden, sometimes lost. I've given my all, turned every stone, challenged every shadow, and yet, I stand at the crossroads of certainty and doubt."                                                                                                                                                                                                                                    [He places the photograph back on the desk, his voice firm yet weary.]
+
+Private Detective: "This case, like an unfinished symphony, leaves a lingering note of unrest. The world may never fully understand what happened that fateful day in Dallas. As for me, I've come to my conclusion, but the door to the unknown remains ajar."                                                                                                                                                                                                                               [He looks directly ahead, a resolute figure amidst the encroaching shadows.]
+
+Private Detective: "In the end, we're all seekers of truth, wandering through the corridors of history, grasping for answers. Some find solace, others, perpetual quests. And so, I close this chapter, knowing well that some stories, like some mysteries, are never truly finished."
+x
+
+
+
+
+
+
+
+
+
+
+
